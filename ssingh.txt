@@ -1,5 +1,0 @@
-This is the first line in ssingh.txt file
-
-
-This is the Third line in ssingh.txt file
-New Line at the end
